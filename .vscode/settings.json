@@ -1,0 +1,13 @@
+{
+	"yaml.disableSchemaDetection": [
+		"**/docker-compose.yml",
+		"**/docker-compose.yaml",
+		"**/docker-compose.*.yml",
+		"**/docker-compose.*.yaml",
+		"**/compose.yml",
+		"**/compose.yaml",
+		"**/compose.*.yml",
+		"**/compose.*.yaml",
+		"file:///e%3A/Dev%20Folders/PrimSpace/otter-blog/apps/web/src/_data/site.yml"
+	]
+}
